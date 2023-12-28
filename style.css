@@ -1,0 +1,79 @@
+.logo{
+    display: flex;
+    width: 400px;
+    
+
+}
+.main{
+    height: 100px;
+
+    background-color: rgb(12, 77, 123);
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    
+    
+}
+.aa{
+    display: flex;
+   justify-content: space-around;
+   align-items: center;
+   background-color: rgb(25, 13, 48);
+   color:white;
+   font-size: 30px;
+   margin: 0;    
+}
+.kk:hover{
+    color: rgb(124, 44, 44);
+}
+
+.change{
+    background-color: blueviolet;
+    color: black;
+    text-align: center;
+    font-weight: 200;
+}
+.nn{
+    display: inline-block;
+    width: 250px;
+    border: 1px white solid;
+    border-color: white;
+    
+    background-color: rgb(2, 12, 19); 
+    color:rgb(221, 156, 156);
+    padding: 20px;
+    text-align: center;
+}
+.hit{
+    display: flex;
+    flex-direction: row;
+    text-align:start;
+    justify-content: center;
+    
+
+}
+.fit{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+  
+
+
+
+    
+    
+    
+
+    
+
+
+    
+    
+    
+   
+   
+
+
